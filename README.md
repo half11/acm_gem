@@ -18,9 +18,11 @@ Or install it yourself as:
 
     $ gem install view_tool_acm
 
-## Usage
+## Usage - instructions
 
-TODO: Write usage instructions here
+```ruby
+ @copyright = CmAlfredo::Renderer.copyright 'Alfredo Castillon', 'All rights reserved'
+ ```
 
 ## Development
 
